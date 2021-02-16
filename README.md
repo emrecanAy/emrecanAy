@@ -2,7 +2,7 @@
 #### I am Jr. Software Developer
 ![I am Jr. Software Developer](https://raw.githubusercontent.com/emrecanAy/emrecanAy/main/github.png)
 
-Herkese merhaba, ben Türkiye'den Emrecan. Farklı dillerde programlama yapıyorum. Yeni teknolojiler ve diller öğrenmekten çok keyif alıyorum. Doğrusu öğrenmeye açım :)
+Herkese merhaba, ben Türkiye'den Emrecan. Farklı dillerde programlama yapıyorum. Yeni teknolojiler ve diller öğrenmekten çok keyif alıyorum. Özel olarak savunma sanayiine meraklıyım.
 
 Skills: JAVA / C# / JS / HTML / CSS
 
