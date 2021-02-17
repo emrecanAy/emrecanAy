@@ -6,15 +6,18 @@
 
 Herkese merhaba, ben Türkiye'den Emrecan. Farklı dillerde programlama yapıyorum. Yeni teknolojiler ve diller öğrenmekten çok keyif alıyorum. Özel olarak savunma sanayiine meraklıyım.
 
-<img alt="Java" src="https://img.shields.io/badge/-java-black?style=flat-square&logo=java"/>
-<img alt="csharp" src="https://img.shields.io/badge/-javascript-black?style=flat-square&logo=csharp"/>
-<img alt="Javascript" src="https://img.shields.io/badge/-javascript-black?style=flat-square&logo=javascript"/>
-Skills: JAVA / C# / JS / HTML / CSS
-
-
 <img src="https://img2.pngio.com/fileflag-of-great-britain-17071800svg-wikimedia-commons-great-britain-flag-png-1024_614.png" width="13"/>
 
 I'm Emrecan from Turkey, and I'm programming in different languages. I really enjoy learning new technologies and languages. Actually I'm hungry to learn :)
+
+## 🧰 Languages and Tools:
+<p align="center">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="Java" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" alt="CSharp" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/photoshop/photoshop.png" alt="Photoshop" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
+</p>
 
 - 🔭 I’m currently working on JAVA 
 - 🌱 I’m currently learning Javascript 
