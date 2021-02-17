@@ -6,7 +6,11 @@
 
 Herkese merhaba, ben Türkiye'den Emrecan. Farklı dillerde programlama yapıyorum. Yeni teknolojiler ve diller öğrenmekten çok keyif alıyorum. Özel olarak savunma sanayiine meraklıyım.
 
+<img alt="Java" src="https://img.shields.io/badge/-javascript-black?style=flat-square&logo=java"/>
+<img alt="csharp" src="https://img.shields.io/badge/-javascript-black?style=flat-square&logo=csharp"/>
+<img alt="Javascript" src="https://img.shields.io/badge/-javascript-black?style=flat-square&logo=javascript"/>
 Skills: JAVA / C# / JS / HTML / CSS
+
 
 <img src="https://img2.pngio.com/fileflag-of-great-britain-17071800svg-wikimedia-commons-great-britain-flag-png-1024_614.png" width="13"/>
 
