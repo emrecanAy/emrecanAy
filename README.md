@@ -12,9 +12,9 @@ I'm Emrecan from Turkey, and I'm programming in different languages. I really en
 
 ## 🧰 Languages and Tools:
 <p align="center">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="Java" height="40" style="vertical-align:top; margin:4px">
+<img src="https://www.flaticon.com/svg/vstatic/svg/919/919854.svg?token=exp=1613568792~hmac=0df0f3e3d518d6dd0fa49f988646be52" alt="Java" height="40" style="vertical-align:top; margin:4px">
 <img src="https://iconape.com/wp-content/files/sh/51404/svg/c--4.svg" alt="CSharp" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/photoshop/photoshop.png" alt="Photoshop" height="40" style="vertical-align:top; margin:4px">
+<img src="https://yalinbilgi.com/wp-content/uploads/2020/01/photoshop-son-kullanılan-dosyaları-temizleme.png" alt="Photoshop" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
 </p>
