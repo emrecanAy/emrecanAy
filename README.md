@@ -8,7 +8,7 @@ Herkese merhaba, ben Türkiye'den Emrecan. Farklı dillerde programlama yapıyor
 
 Skills: JAVA / C# / JS / HTML / CSS
 
-<img src="https://www.flaticon.com/svg/vstatic/svg/523/523559.svg?token=exp=1613567943~hmac=8c101f95e449365305bc4f768aa001d8" width="13"/>
+<img src="https://img2.pngio.com/fileflag-of-great-britain-17071800svg-wikimedia-commons-great-britain-flag-png-1024_614.png" width="13"/>
 
 I'm Emrecan from Turkey, and I'm programming in different languages. I really enjoy learning new technologies and languages. Actually I'm hungry to learn :)
 
