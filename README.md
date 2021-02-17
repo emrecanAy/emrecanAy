@@ -16,7 +16,7 @@ I'm Emrecan from Turkey, and I'm programming in different languages. I really en
 <img src="https://iconape.com/wp-content/files/sh/51404/svg/c--4.svg" alt="CSharp" height="40" style="vertical-align:top; margin:4px">
 <img src="https://yalinbilgi.com/wp-content/uploads/2020/01/photoshop-son-kullanılan-dosyaları-temizleme.png" alt="Photoshop" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio/visual-studio.png" alt="VS" height="40" style="vertical-align:top; margin:4px">
+<img src="https://www.flaticon.com/svg/vstatic/svg/906/906324.svg?token=exp=1613568911~hmac=7bb1f4f1e75bcfa78f7158b797a97ec1" alt="VS" height="40" style="vertical-align:top; margin:4px">
 </p>
 
 - 🔭 I’m currently working on JAVA 
