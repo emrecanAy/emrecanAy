@@ -15,8 +15,8 @@ I'm Emrecan from Turkey, and I'm programming in different languages. I really en
 <img src="https://www.flaticon.com/svg/vstatic/svg/226/226777.svg?token=exp=1620004598~hmac=3f57666f7797b2ab7c9df4d8ad0c5637" alt="Java" height="40" style="vertical-align:top; margin:4px">
 <img src="https://www.lemon.be/wp-content/uploads/2018/01/Spring-Boot-Logo-1.png" alt="SpringBoot" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
-<img src="https://iconape.com/wp-content/files/sh/51404/svg/c--4.svg" alt="CSharp" height="40" style="vertical-align:top; margin:4px">
 <img src="https://img.icons8.com/color/000000/typescript.png" height="40" alt="Typescript" style="vertical-align:top; margin:4px"/>
+<img src="https://iconape.com/wp-content/files/sh/51404/svg/c--4.svg" alt="CSharp" height="40" style="vertical-align:top; margin:4px">
 <img src="https://img.icons8.com/officel/80/000000/java-eclipse.png" alt="Eclipse" height="40" style="vertical-align:top; margin:4px"/>
 <img src="https://img.icons8.com/color/48/000000/visual-studio-2019.png" alt="VS" height="40" style="vertical-align:top; margin:4px">
 <img src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" alt="VsCode" height="40" style="vertical-align:top; margin:4px"/>
