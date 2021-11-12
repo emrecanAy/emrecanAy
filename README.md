@@ -2,7 +2,7 @@
 #### I am Jr. Software Developer
 ![I am Jr. Software Developer](https://raw.githubusercontent.com/emrecanAy/emrecanAy/main/github.png)
 
-<img src="https://image.flaticon.com/icons/svg/2060/2060608.svg" width="13"/>
+<img src="https://cdn-icons-png.flaticon.com/512/330/330467.png" width="13"/>
 
 Herkese merhaba, ben Türkiye'den Emrecan. Farklı dillerde programlama yapıyorum. Yeni teknolojiler ve diller öğrenmekten çok keyif alıyorum. Özel olarak savunma sanayiine meraklıyım.
 
