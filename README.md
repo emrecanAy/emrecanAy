@@ -24,8 +24,8 @@ I'm Emrecan from Turkey, and I'm programming in different languages. I really en
 <img src="https://yalinbilgi.com/wp-content/uploads/2020/01/photoshop-son-kullanılan-dosyaları-temizleme.png" alt="Photoshop" height="40" style="vertical-align:top; margin:4px">
 </p>
 
-- 🔭 I’m currently working on JAVA 
-- 🌱 I’m currently learning Spring, Spring Boot, Hibernate, Maven and Angular
+- 🔭 I’m currently working on JAVA & Node.js 
+- 🌱 I’m currently learning React, GraphQL, AWS lambda. 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/emrecanAy)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40' >](https://www.linkedin.com/in/emrecan-ay/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40' >](https://www.instagram.com/codemrecan/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40' >](https://stackoverflow.com/users/15222467)  
