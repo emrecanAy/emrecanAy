@@ -18,7 +18,7 @@ I'm Emrecan from Turkey, and I'm programming in different languages. I really en
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
 <img src="https://img.icons8.com/color/000000/typescript.png" height="40" alt="Typescript" style="vertical-align:top; margin:4px"/>
 <img src="https://cdn-icons-png.flaticon.com/512/919/919851.png" height="40" alt="React" style="vertical-align:top; margin:4px"/>
-<img src="<img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-angular-a-typescript-based-open-source-web-application-framework-logo-shadow-tal-revivo.png"/>" height="40" alt="Angular" style="vertical-align:top; margin:4px"/>
+<img src="<img src="https://brandslogos.com/wp-content/uploads/images/angular-icon-logo.png"/>" height="40" alt="Angular" style="vertical-align:top; margin:4px"/>
 <img src="https://iconape.com/wp-content/files/sh/51404/svg/c--4.svg" alt="CSharp" height="40" style="vertical-align:top; margin:4px">
 <img src="https://img.icons8.com/officel/80/000000/java-eclipse.png" alt="Eclipse" height="40" style="vertical-align:top; margin:4px"/>
 <img src="https://img.icons8.com/color/48/000000/visual-studio-2019.png" alt="VS" height="40" style="vertical-align:top; margin:4px">
