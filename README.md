@@ -24,6 +24,7 @@ I'm Emrecan from Turkey, and I'm programming in different languages. I really en
 <img src="https://img.icons8.com/officel/80/000000/java-eclipse.png" alt="Eclipse" height="40" style="vertical-align:top; margin:4px"/>
 <img src="https://img.icons8.com/color/48/000000/visual-studio-2019.png" alt="VS" height="40" style="vertical-align:top; margin:4px">
 <img src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" alt="VsCode" height="40" style="vertical-align:top; margin:4px"/>
+<img src="https://iconape.com/wp-content/files/gm/82643/svg/next-js.svg" alt="Nextjs" height="40" style="vertical-align:top; margin:4px"/>
 <img src="https://yalinbilgi.com/wp-content/uploads/2020/01/photoshop-son-kullanılan-dosyaları-temizleme.png" alt="Photoshop" height="40" style="vertical-align:top; margin:4px">
 </p>
 
