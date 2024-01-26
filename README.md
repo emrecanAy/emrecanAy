@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Emrecan
-#### I am Jr. Software Developer
+#### I am Software Developer
 ![I am Software Developer](https://raw.githubusercontent.com/emrecanAy/emrecanAy/main/github.png)
 
 <img src="https://cdn-icons-png.flaticon.com/512/330/330467.png" width="13"/>
