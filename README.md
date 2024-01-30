@@ -12,17 +12,17 @@ I'm Emrecan from Turkey, and I'm programming in different languages. I really en
 
 ## 🧰 Languages and Tools:
 <p align="center">
+<img src="https://iconape.com/wp-content/files/sh/51404/svg/c--4.svg" alt="CSharp" height="40" style="vertical-align:top; margin:4px">
+<img src="https://cdn-icons-png.flaticon.com/512/906/906324.png" alt="VS" height="40" style="vertical-align:top; margin:4px">
 <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="Java" height="40" style="vertical-align:top; margin:4px">
-<img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" alt="Nodejs" height="40" style="vertical-align:top; margin:4px">
-<img src="https://miro.medium.com/max/300/1*R6jBaoIrvb49knSiTJ7lgA.png" alt="SpringBoot" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://miro.medium.com/max/300/1*R6jBaoIrvb49knSiTJ7lgA.png" alt="SpringBoot" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" alt="Nodejs" height="40" style="vertical-align:top; margin:4px">
 <img src="https://img.icons8.com/color/000000/typescript.png" height="40" alt="Typescript" style="vertical-align:top; margin:4px"/>
 <img src="https://cdn-icons-png.flaticon.com/512/919/919851.png" height="40" alt="React" style="vertical-align:top; margin:4px"/>
 <img src="https://brandslogos.com/wp-content/uploads/images/angular-icon-logo.png" height="40" alt="Angular" style="vertical-align:top; margin:4px"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" height="40" alt="React" style="vertical-align:top; margin:4px"/>
-<img src="https://iconape.com/wp-content/files/sh/51404/svg/c--4.svg" alt="CSharp" height="40" style="vertical-align:top; margin:4px">
 <img src="https://img.icons8.com/officel/80/000000/java-eclipse.png" alt="Eclipse" height="40" style="vertical-align:top; margin:4px"/>
-<img src="https://img.icons8.com/color/48/000000/visual-studio-2019.png" alt="VS" height="40" style="vertical-align:top; margin:4px">
 <img src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" alt="VsCode" height="40" style="vertical-align:top; margin:4px"/>
 <img src="https://iconape.com/wp-content/files/gm/82643/svg/next-js.svg" alt="Nextjs" height="40" style="vertical-align:top; margin:4px"/>
 <img src="https://yalinbilgi.com/wp-content/uploads/2020/01/photoshop-son-kullanılan-dosyaları-temizleme.png" alt="Photoshop" height="40" style="vertical-align:top; margin:4px">
