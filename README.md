@@ -2,13 +2,13 @@
 
 <p align="center">
   <a href="https://github.com/emrecanAy">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3500&pause=900&color=6E9EFF&center=true&vCenter=true&width=520&lines=Full-stack+developer+%C2%B7+.NET+%2B+TypeScript;CQRS+%C2%B7+DDD+%C2%B7+event-driven+backends;RAG+and+LLM+features+that+stay+grounded" alt="Full-stack developer · .NET + TypeScript" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3500&pause=900&color=6E9EFF&center=true&vCenter=true&width=520&lines=Full-stack+developer;CQRS+%C2%B7+DDD+%C2%B7+event-driven+backends;RAG+and+LLM+features+that+stay+grounded" alt="Full-stack developer" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/emrecan-ay/"><img src="https://img.shields.io/badge/LinkedIn-emrecan--ay-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:ayemrecan.info@gmail.com"><img src="https://img.shields.io/badge/Email-ayemrecan.info%40gmail.com-555?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:codemrecan@gmail.com"><img src="https://img.shields.io/badge/Email-codemrecan%40gmail.com-555?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
   <img src="https://img.shields.io/badge/Bursa%2C%20T%C3%BCrkiye-open%20to%20work-2EA043?style=flat-square" alt="Open to work" />
 </p>
 
@@ -18,15 +18,15 @@ Open to backend and full-stack roles, on-site or remote.
 
 ## Experience
 
-**Glosy Software** · Full Stack Developer · 2025 – 2026  
+**Glosy Software** · Full Stack Developer  
 Enterprise logistics apps and web portals for road, sea and air freight.  
 `.NET` `EF Core` `Angular` `Azure` `MSSQL`
 
-**Alphastellar.io** · Backend Developer · 2024 – 2025  
+**Alphastellar.io** · Backend Developer  
 Insurance and custom enterprise software, built on CQRS and Domain-Driven Design.  
 `.NET` `CQRS` `DDD` `Clean Architecture` `Azure`
 
-**ikas** · Full Stack Developer · 2022  
+**ikas** · Full Stack Developer  
 E-commerce storefronts for online shops.  
 `Next.js` `Node.js` `GraphQL` `TypeScript`
 
