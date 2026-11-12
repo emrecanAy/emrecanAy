@@ -1,36 +1,56 @@
-### Hi there 👋, my name is Emrecan
-#### I am Software Developer
-![I am Software Developer](https://raw.githubusercontent.com/emrecanAy/emrecanAy/main/github.png)
+# Emrecan Ay
 
-<img src="https://cdn-icons-png.flaticon.com/512/330/330467.png" width="13"/>
+Full-stack developer based in Bursa, Türkiye.
 
-Herkese merhaba, ben Türkiye'den Emrecan. Farklı dillerde programlama yapıyorum. Yeni teknolojiler ve diller öğrenmekten çok keyif alıyorum. Özel olarak savunma sanayiine meraklıyım.
+Most of my work is .NET on the backend — CQRS, DDD, clear boundaries between layers — with Angular, React or React Native on the front. Lately I've been building LLM features where the answer has to be grounded in real data: retrieval, chunking, vector search, and saying "I don't know" when the documents don't cover it.
 
-<img src="https://img2.pngio.com/fileflag-of-great-britain-17071800svg-wikimedia-commons-great-britain-flag-png-1024_614.png" width="13"/>
+Open to backend and full-stack roles, on-site or remote.
 
-I'm Emrecan from Turkey, and I'm programming in different languages. I really enjoy learning new technologies and languages. Actually I'm hungry to learn :)
+## Experience
 
-## 🧰 Languages and Tools:
-<p align="center">
-<img src="https://iconape.com/wp-content/files/sh/51404/svg/c--4.svg" alt="CSharp" height="40" style="vertical-align:top; margin:4px">
-<img src="https://cdn-icons-png.flaticon.com/512/906/906324.png" alt="VS" height="40" style="vertical-align:top; margin:4px">
-<img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="Java" height="40" style="vertical-align:top; margin:4px">
-  <img src="https://miro.medium.com/max/300/1*R6jBaoIrvb49knSiTJ7lgA.png" alt="SpringBoot" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
-  <img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" alt="Nodejs" height="40" style="vertical-align:top; margin:4px">
-<img src="https://img.icons8.com/color/000000/typescript.png" height="40" alt="Typescript" style="vertical-align:top; margin:4px"/>
-<img src="https://cdn-icons-png.flaticon.com/512/919/919851.png" height="40" alt="React" style="vertical-align:top; margin:4px"/>
-<img src="https://brandslogos.com/wp-content/uploads/images/angular-icon-logo.png" height="40" alt="Angular" style="vertical-align:top; margin:4px"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" height="40" alt="React" style="vertical-align:top; margin:4px"/>
-<img src="https://img.icons8.com/officel/80/000000/java-eclipse.png" alt="Eclipse" height="40" style="vertical-align:top; margin:4px"/>
-<img src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" alt="VsCode" height="40" style="vertical-align:top; margin:4px"/>
-<img src="https://iconape.com/wp-content/files/gm/82643/svg/next-js.svg" alt="Nextjs" height="40" style="vertical-align:top; margin:4px"/>
-<img src="https://yalinbilgi.com/wp-content/uploads/2020/01/photoshop-son-kullanılan-dosyaları-temizleme.png" alt="Photoshop" height="40" style="vertical-align:top; margin:4px">
-</p>
+**Glosy Software** · Full Stack Developer · 2025 – 2026  
+Enterprise logistics apps and web portals for road, sea and air freight.  
+`.NET` `EF Core` `Angular` `Azure` `MSSQL`
 
-- 🔭 I’m currently working on .NET & JAVA & React & Angular 
-- 🌱 I’m currently learning GraphQL, AWS lambda. 
+**Alphastellar.io** · Backend Developer · 2024 – 2025  
+Insurance and custom enterprise software, built on CQRS and Domain-Driven Design.  
+`.NET` `CQRS` `DDD` `Clean Architecture` `Azure`
 
+**ikas** · Full Stack Developer · 2022  
+E-commerce storefronts for online shops.  
+`Next.js` `Node.js` `GraphQL` `TypeScript`
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/emrecanAy)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40' >](https://www.linkedin.com/in/emrecan-ay/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40' >](https://www.instagram.com/codemrecan/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40' >](https://stackoverflow.com/users/15222467)  
+## Projects
 
+**[netcore-architecture](https://github.com/emrecanAy/netcore-architecture)**  
+An order system built the way I'd build a production service: commands and queries split with MediatR, aggregates that enforce their own rules, domain events dispatched inside a single transaction, and a transactional outbox so emails never go out for a rolled-back order. It also has a RAG help desk — upload documents, they get chunked and embedded in the background, and questions are answered only from the retrieved chunks.  
+`.NET 9` `EF Core` `MediatR` `Gemini` `sqlite-vec`
+
+**Simahenk** — hairstyle try-on for barbers  
+Analyses face shape, suggests styles, then applies the chosen cut and colour while keeping the person's face untouched.  
+`MediaPipe FaceMesh` `BiSeNet` `Gemini` `React`
+
+**AtölyemCepte** — job & payment tracker for small workshops  
+Built for industrial workshop owners who still track jobs on paper. Deadline reminders run on Supabase cron jobs and arrive as push notifications.  
+`React Native` `Supabase` `OneSignal` `PWA`
+
+**Lingoric** — vocabulary game  
+You learn English words by ricocheting shots off the walls, billiards-style.  
+`React Native` `Expo`
+
+**Ketebe** — library management system  
+Used by the Faculty of Business at Uludağ University: books, members, loans, reports.  
+`.NET` `Angular` `MSSQL`
+
+## Stack
+
+**Backend** — C#, ASP.NET Core, EF Core, MediatR, RabbitMQ, Redis, Hangfire · Java, Spring Boot  
+**Frontend & mobile** — Angular, React, Next.js, React Native (Expo), TypeScript  
+**Data & cloud** — MSSQL, PostgreSQL, Supabase, Azure, Azure DevOps  
+**AI** — OpenAI, Gemini and Claude APIs, embeddings & vector search, MediaPipe, n8n. Claude Code is part of my daily workflow.
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/emrecan-ay/) · ayemrecan.info@gmail.com
+
+BSc Management Information Systems, Uludağ University
