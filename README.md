@@ -32,6 +32,14 @@ E-commerce storefronts for online shops.
 
 ## Projects
 
+**[marquee](https://github.com/emrecanAy/marquee)** — cinema ticketing where a seat is sold exactly once  
+A modular monolith with a React front end, built around the moment a premiere opens and everyone clicks the same seat. Redis `SET NX` locks absorb the stampede, PostgreSQL row versions stay the source of truth if a lock is lost, and a virtual waiting room keeps seat selection usable. Payments go through an outbox with idempotency keys, a charge that lands after the hold expired is refunded, and Debezium turns the write-ahead log into an audit trail. One `docker compose up` runs the whole thing.  
+`.NET 10` `React 19` `PostgreSQL` `Redis` `Kafka` `Debezium` `Testcontainers`
+
+**[flash-sale](https://github.com/emrecanAy/flash-sale)** — order service for limited-stock drops  
+A few units, far more buyers, all at the same second. Stock is reserved with a single conditional `UPDATE`, so there is no read-then-write window to oversell through; rows are locked in a fixed order to avoid deadlocks, retries are idempotent, and unpaid orders give their stock back after 15 minutes. Every race has a test against a real PostgreSQL — 200 concurrent buyers, 10 units, exactly 10 orders.  
+`Java 21` `Spring Boot 4` `PostgreSQL` `Flyway` `Spring Modulith` `Testcontainers`
+
 **[netcore-architecture](https://github.com/emrecanAy/netcore-architecture)**  
 An order system built the way I'd build a production service: commands and queries split with MediatR, aggregates that enforce their own rules, domain events dispatched inside a single transaction, and a transactional outbox so emails never go out for a rolled-back order. It also has a RAG help desk — upload documents, they get chunked and embedded in the background, and questions are answered only from the retrieved chunks.  
 `.NET 9` `EF Core` `MediatR` `Gemini` `sqlite-vec`
@@ -55,13 +63,13 @@ Used by the Faculty of Business at Uludağ University: books, members, loans, re
 ## Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,azure,postgres,redis,rabbitmq,java,spring&perline=9" alt="Backend stack" /><br/>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,azure,postgres,redis,rabbitmq,kafka,java,spring&perline=9" alt="Backend stack" /><br/>
   <img src="https://skillicons.dev/icons?i=ts,angular,react,nextjs,nodejs,graphql,supabase,git,githubactions&perline=9" alt="Frontend and tooling" />
 </p>
 
-**Backend** — C#, ASP.NET Core, EF Core, MediatR, RabbitMQ, Redis, Hangfire · Java, Spring Boot  
+**Backend** — C#, ASP.NET Core, EF Core, MediatR, RabbitMQ, Kafka, Redis, Hangfire · Java, Spring Boot  
 **Frontend & mobile** — Angular, React, Next.js, React Native (Expo), TypeScript  
-**Data & cloud** — MSSQL, PostgreSQL, Supabase, Azure, Azure DevOps  
+**Data & cloud** — MSSQL, PostgreSQL, Supabase, Docker, Azure, Azure DevOps  
 **AI** — OpenAI, Gemini and Claude APIs, embeddings & vector search, MediaPipe, n8n. Claude Code is part of my daily workflow.
 
 <details>
