@@ -95,4 +95,8 @@ Used by the Faculty of Business at Uludağ University: books, members, loans, re
 
 ---
 
-<sub>BSc Management Information Systems, Uludağ University</sub>
+<p align="center">
+  <sub>BSc Management Information Systems, Uludağ University</sub><br/>
+  <img src="https://img.shields.io/badge/Graduated-High%20Honors-C9A227?style=flat-square" alt="Graduated with high honors" />
+  <img src="https://img.shields.io/badge/GPA-3.55%20%2F%204.00-2EA043?style=flat-square" alt="GPA 3.55 out of 4.00" />
+</p>
