@@ -40,6 +40,14 @@ A modular monolith with a React front end, built around the moment a premiere op
 A few units, far more buyers, all at the same second. Stock is reserved with a single conditional `UPDATE`, so there is no read-then-write window to oversell through; rows are locked in a fixed order to avoid deadlocks, retries are idempotent, and unpaid orders give their stock back after 15 minutes. Every race has a test against a real PostgreSQL — 200 concurrent buyers, 10 units, exactly 10 orders.  
 `Java 21` `Spring Boot 4` `PostgreSQL` `Flyway` `Spring Modulith` `Testcontainers`
 
+**[tezgah](https://github.com/emrecanAy/tezgah)** — one platform for small businesses, sold module by module  
+A hairdresser gets customers, stamp cards and appointments; a café gets a till, the stamp card and stock; a logistics firm gets only fleet tracking. One code base and one database, and each company sees only the modules it was given. The platform admin ticks modules per company at runtime (turning one off closes it with a `403` but keeps its data), and an installation can ship only the modules a customer bought, so the others have no endpoints and no tables. Stamps come only from recorded sales and completed visits, and a staff member can't be double-booked. One `docker compose up` brings up three demo companies.  
+`.NET 10` `React 19` `PostgreSQL` `Modular Monolith` `Docker`
+
+**[documind](https://github.com/emrecanAy/documind)** — document assistant that answers from the sources and cites the page  
+Ask questions about PDFs, Word files and wikis and get answers with inline citations down to file, page and section, or "not covered" when the documents don't say. Ingestion runs in a background worker on a Postgres job queue (`SKIP LOCKED`, retries, dead-lettering) with live progress over SignalR. Retrieval is hybrid: dense plus BM25 vectors in Qdrant, fused with Reciprocal Rank Fusion, with query rewriting and optional LLM reranking. Workspaces are isolated per tenant on every vector and SQL query, a tool-calling agent mode is bound to its workspace, and a golden-dataset evaluation (hit rate, MRR, LLM-as-a-judge) runs as a CI quality gate. Works with Ollama, OpenAI or Claude.  
+`.NET 10` `React 19` `Qdrant` `PostgreSQL` `SignalR` `OpenTelemetry` `Testcontainers`
+
 **[netcore-architecture](https://github.com/emrecanAy/netcore-architecture)**  
 An order system built the way I'd build a production service: commands and queries split with MediatR, aggregates that enforce their own rules, domain events dispatched inside a single transaction, and a transactional outbox so emails never go out for a rolled-back order. It also has a RAG help desk — upload documents, they get chunked and embedded in the background, and questions are answered only from the retrieved chunks.  
 `.NET 9` `EF Core` `MediatR` `Gemini` `sqlite-vec`
