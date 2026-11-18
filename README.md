@@ -14,7 +14,7 @@
 
 Most of my work is .NET on the backend — CQRS, DDD, clear boundaries between layers — with Angular, React or React Native on the front. Lately I've been building LLM features where the answer has to be grounded in real data: retrieval, chunking, vector search, and saying "I don't know" when the documents don't cover it.
 
-Open to backend and full-stack roles, on-site or remote.
+Open to backend, full-stack and business analyst roles, on-site or remote.
 
 ## Experience
 
